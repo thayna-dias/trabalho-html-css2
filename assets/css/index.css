@@ -14,10 +14,11 @@
 
 body {
 	max-width: 1360px;
-	background: url('../images/fundo.png');
+	background-image: url("../css/fundo.png");
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+	background-position: center;
 }
 
 header {
