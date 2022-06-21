@@ -14,7 +14,7 @@
 
 body {
 	max-width: 1360px;
-	background-image: url("/fundo.png");
+	background: url("/assets/images/fundo.png");
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
